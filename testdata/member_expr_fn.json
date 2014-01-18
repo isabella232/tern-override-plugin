@@ -1,0 +1,20 @@
+{
+  "!name": "testdata/member_expr_fn.js",
+  "wantNumber": {
+    "!type": "number",
+    "!span": "32[1:4]-42[1:14]"
+  },
+  "wantBool": {
+    "!type": "bool",
+    "!span": "57[2:4]-65[2:12]"
+  },
+  "wantFn": {
+    "!type": "fn()",
+    "!span": "84[4:4]-90[4:10]"
+  },
+  "wantString": {
+    "!type": "string",
+    "!span": "181[12:4]-191[12:14]"
+  },
+  "D": {}
+}

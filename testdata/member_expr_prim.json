@@ -1,0 +1,7 @@
+{
+  "!name": "testdata/member_expr_prim.js",
+  "B": {
+    "c": "number"
+  },
+  "wantNumber": "number"
+}
