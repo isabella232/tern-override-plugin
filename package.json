@@ -1,7 +1,7 @@
 {
   "name": "tern-override-plugin",
   "description": "Tern plugin that overrides inferred types for all instances of a specific AST expression",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Quinn Slack",
     "email": "sqs@sourcegraph.com"
